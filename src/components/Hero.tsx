@@ -52,7 +52,7 @@ const Hero = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4, duration: 0.8 }}
           >
-            AI, ML, and Data Science Enthusiast
+            AI-ML and Data Science Enthusiast
           </motion.p>
           <motion.p 
             className="text-gray-400 mb-8 max-w-lg"
