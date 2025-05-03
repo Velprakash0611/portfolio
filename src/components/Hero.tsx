@@ -141,7 +141,7 @@ const Hero = () => {
               transition={{ duration: 2, repeat: Infinity }}
             ></motion.div>
             <motion.img 
-              src="/profiel.jpg"
+              src="public/profiel.jpg"
               alt="Velprakash S" 
               className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-full border-4 border-gray-800"
               whileHover={{ scale: 1.05 }}
