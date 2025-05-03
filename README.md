@@ -80,6 +80,6 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or feedback, feel free to reach out:
 
 - **GitHub:** [Velprakash0611](https://github.com/Velprakash0611)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [velprakash0611@gmail.com](mailto:velprakash0611@gmail.com)
 ```
 
